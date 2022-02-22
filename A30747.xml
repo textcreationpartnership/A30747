@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a member of the House of Commons on a proposal for regulating and advancing the woollen manufactory, &amp;c. given to the members at the Commons door, the 25th of January, 1697/8.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30747</idno>
+            <idno type="STC">Wing B62A</idno>
+            <idno type="STC">ESTC R10365</idno>
+            <idno type="EEBO-CITATION">11674989</idno>
+            <idno type="OCLC">ocm 11674989</idno>
+            <idno type="VID">48083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 10:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a member of the House of Commons on a proposal for regulating and advancing the woollen manufactory, &amp;c. given to the members at the Commons door, the 25th of January, 1697/8.</title>
+                  <author>F. B.</author>
+               </titleStmt>
+               <extent>[3], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Geo. Huddleston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: F.B.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48083:1"/>
+            <!-- PDF PAGE 66 -->
+            <pb facs="tcp:48083:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 66 -->
+            <p>A LETTER TO A MEMBER OF THE Houſe of Commons ON A PROPOSAL for Regulating and Advancing the WOOLLEN-MANUFACTORY, <hi>&amp;c.</hi>
+            </p>
+            <p>Given to the Members at the Commons Door, the 25th. of <hi>January,</hi> 1697/8.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Geo. Huddleſton;</hi> at the <hi>Black<g ref="char:EOLhyphen"/>a-moore</hi>'s-<hi>Head,</hi> near <hi>Exeter-Change</hi> in the <hi>Strand.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:48083:2"/>
+            <!-- PDF PAGE 67 -->
+            <pb n="5" facs="tcp:48083:2"/>
+            <!-- PDF PAGE 67 -->
+            <head>A LETTER TO A MEMBER OF THE HOUSE of COMMONS, ON A <hi>Propoſal for Regulating and Advancing the</hi> Woollen-Manufactory, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I have read, and here give you my Thoughts of the Pro<g ref="char:EOLhyphen"/>poſal you ſent me, relating to the <hi>Woollen-Manufactory:</hi> Firſt It convinces me, that without the
+<pb n="6" facs="tcp:48083:3"/>
+               <!-- PDF PAGE 68 -->Experience and Information of practical Heads, Men of the beſt Underſtanding, cannot form Laws and Methods, for impro<g ref="char:EOLhyphen"/>ving our Trade and Navigati<g ref="char:EOLhyphen"/>on: If what this honeſt Clothier, for ſo I take him to be, hath offered, was improv'd by a Law, I think it would eſtabliſh and advance the <hi>Woollen-Manufactory</hi> of <hi>England,</hi> more than all the Laws made theſe hundred Years. Thus far I am of the Propoſer's Opinion, as it relates to the working Part; but I doubt he is ſhort in his Method for pre<g ref="char:EOLhyphen"/>venting the Exports of Wooll.</p>
+            <p>His Expedients for balancing, as he calls the Exports of <hi>Wol<g ref="char:EOLhyphen"/>len-Manufactory</hi> from <hi>England</hi> and <hi>Ireland,</hi> ſeem ſuch as I
+<pb n="7" facs="tcp:48083:3"/>
+               <!-- PDF PAGE 68 -->ſhould think our Friends in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> will think reaſonable.</p>
+            <p>There is only two Things that want Explanation: <hi>Firſt,</hi> Whether Six Pence a Pound ſhould be charged on <hi>Iriſh-Frize,</hi> that would be equal to a Prohibition, the Commodity not being of Value to bear it?</p>
+            <p>The other Thing to be ex<g ref="char:EOLhyphen"/>plain'd, is, Whether this Duty ſhould be charg'd by our Par<g ref="char:EOLhyphen"/>liament here, or by the Parlia<g ref="char:EOLhyphen"/>ment of <hi>Ireland?</hi>
+            </p>
+            <p>I believe all Nations in the World that have heard of our Conſtitution, think us the hap<g ref="char:EOLhyphen"/>pienſt People under Heaven; the way to keep us ſo, is to ſe<g ref="char:EOLhyphen"/>cure
+<pb n="8" facs="tcp:48083:4"/>
+               <!-- PDF PAGE 69 -->our Brethren in <hi>Ireland,</hi> the Right they have to the ſame Conſtitution.</p>
+            <p>Now I think the Soul of our Conſtitution is, that no <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Man is bound by any Law made, where he hath not a Re<g ref="char:EOLhyphen"/>preſentative.</p>
+            <p>Both Kingdoms hold Parlia<g ref="char:EOLhyphen"/>ments; let us be careful of Par<g ref="char:EOLhyphen"/>liaments: By our ſupporting theirs, we ſecure our own; but if either Kingdom makes Laws for the other, we invade the Rights of <hi>Engliſh</hi> Men, by de<g ref="char:EOLhyphen"/>nying them their Repreſenta<g ref="char:EOLhyphen"/>tives where Laws are made to oblige them.</p>
+            <p>
+               <pb n="9" facs="tcp:48083:4"/>
+               <!-- PDF PAGE 69 -->
+I have often admir'd the Wiſ<g ref="char:EOLhyphen"/>dom of the <hi>Romans,</hi> in making the Privilege of a <hi>Roman</hi> Uni<g ref="char:EOLhyphen"/>verſal, through their whole Con<g ref="char:EOLhyphen"/>queſt. The pooreſt Mechanick, though in a Kingdom governed by their own Laws, not thoſe of <hi>Rome,</hi> yet a <hi>Roman,</hi> had the Privilege of being try'd accord<g ref="char:EOLhyphen"/>ing to the <hi>Roman</hi> Conſtitution; why ſhould not we that have a better Foundation than Heathen <hi>Rome,</hi> be as good Men, that is, as Careful of the Rights and Li<g ref="char:EOLhyphen"/>berties of our Nation?</p>
+            <p>Let us not then Conſent to have any thing impoſed on <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Men, where-ever they are, that we would not indure our ſelves. I am ſure we ſhould not ſubmit to a Law made in <hi>Ireland;</hi> and
+<pb n="10" facs="tcp:48083:5"/>
+               <!-- PDF PAGE 70 -->we have nothing to juſtifie our making Laws for them but Force, which though it may be a good Attendent to ſupport Righteous Laws; yet I cannot think it a good Authority to make them ſo, that are not.</p>
+            <p>The <hi>Britiſh</hi> of <hi>Ireland</hi> hold by the ſame Tenure we do; by ſupporting the Annuity of our younger Brother, we ſecure the Inheritance to our ſelves.</p>
+            <p>I am afraid advancing the Power of our Parliament to the breaking the Rights of another, may turn upon our ſelves. I confeſs my ſelf a Votary to Par<g ref="char:EOLhyphen"/>liaments, and would therefore have nothing done that might weaken their Conſtitution.</p>
+            <p>
+               <pb n="11" facs="tcp:48083:5"/>
+               <!-- PDF PAGE 70 -->
+I own we have Reaſon to the laſt Degree, to look to our Woollen Manufactory; and I ſhould rather part with all the other Trade and Commerce of the Nation than that; yet that ſhould go, and my Life too, ra<g ref="char:EOLhyphen"/>ther than my Hand ſhould join in that Act, which breaks in upon the Rights and Liberties of <hi>Engliſh</hi> Men. Whilſt we preſerve that, it is our own Fault if we ſecure not our Trade and Navigation; and why ſhould not we, by ju<g ref="char:EOLhyphen"/>ſtifiable Methods, oblige <hi>Ireland</hi> to ſerve us in both?</p>
+            <p>I am humbly of opinion, there are Ways and Room enough to make that Iſland equally pro<g ref="char:EOLhyphen"/>fitable to us with all our Fo<g ref="char:EOLhyphen"/>reign Plantations; but then it
+<pb n="12" facs="tcp:48083:6"/>
+               <!-- PDF PAGE 71 -->muſt not be by driving out the <hi>Engliſh,</hi> in my weak Judgment. It hath been always the Miſtake of <hi>England,</hi> in not giving In<g ref="char:EOLhyphen"/>couragement for more of our Nation to plant there; perhaps a thouſand Families might have grown to a Strength that would have prevented the frequent Re<g ref="char:EOLhyphen"/>bellions, that have coſt the Lives of hundred thouſands of <hi>Engliſh</hi> Men. We muſt, for our own ſakes, keep <hi>Ireland</hi> out of <hi>Iriſh</hi> and Foreign Hands; and that we cannot do, but by our own People. It would be unnatural to them, and dangerous to our ſelves, to eſtabliſh them in Sla<g ref="char:EOLhyphen"/>very; and it is ſo, where Men are governed by Laws they have no hand in making. The Infal<g ref="char:EOLhyphen"/>lible Author teacheth us better Doctrine, where he bids us, <hi>So
+<pb n="13" facs="tcp:48083:6"/>
+                  <!-- PDF PAGE 71 -->ſpeak, and ſo do, as they that ſhall be judged by the Law of Liberty, that is our Right may no hand in<g ref="char:EOLhyphen"/>vade it.</hi> I am,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Obliged Servant, <hi>F. B.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
